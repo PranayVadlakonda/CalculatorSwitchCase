@@ -58,16 +58,19 @@ public class CalculatorSwitchConstruct {
                 System.out.println("Invalid operator");
                 break;
         }
-
-
-
-        }
-
-
-
-
-
-
-
+        // close the scanner
+        input.close();
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+

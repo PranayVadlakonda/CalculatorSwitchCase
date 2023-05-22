@@ -117,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684758529361</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="write a code to print the remainder of two numbers">
+      <created>1684758661363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684758661363</updated>
+    </task>
+    <task id="LOCAL-00011" summary="write a default case for the operator input by the user is not = - * / %">
+      <created>1684758894823</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684758894823</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +144,8 @@
     <MESSAGE value="create a variable to store operator , use the input.next().charAt(0) method to input the character" />
     <MESSAGE value="write a switch case statement with the operator as expression" />
     <MESSAGE value="write a code to print the quotient of two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="write a code to print the quotient of two numbers" />
+    <MESSAGE value="write a code to print the remainder of two numbers" />
+    <MESSAGE value="write a default case for the operator input by the user is not = - * / %" />
+    <option name="LAST_COMMIT_MESSAGE" value="write a default case for the operator input by the user is not = - * / %" />
   </component>
 </project>
