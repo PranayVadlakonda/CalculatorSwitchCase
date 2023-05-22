@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684758255915</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="write a switch case statement with the operator as expression">
+      <created>1684758353872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684758353872</updated>
+    </task>
+    <task id="LOCAL-00009" summary="write a code to print the quotient of two numbers">
+      <created>1684758529361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684758529361</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +128,8 @@
     <MESSAGE value="create a variable to store second number , use the input.nextInt() method to input the number" />
     <MESSAGE value="prompt the user to enter operator" />
     <MESSAGE value="create a variable to store operator , use the input.next().charAt(0) method to input the character" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a variable to store operator , use the input.next().charAt(0) method to input the character" />
+    <MESSAGE value="write a switch case statement with the operator as expression" />
+    <MESSAGE value="write a code to print the quotient of two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="write a code to print the quotient of two numbers" />
   </component>
 </project>

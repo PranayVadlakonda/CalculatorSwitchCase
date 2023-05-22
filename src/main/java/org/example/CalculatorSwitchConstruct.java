@@ -52,6 +52,12 @@ public class CalculatorSwitchConstruct {
                 // write a code to print the remainder of two numbers
                 System.out.println(firstNumber % secondNumber);
                 break;
+            // write a default case for the operator input by the user is not = - * / %
+            default:
+                // write a code to write invalid operator
+                System.out.println("Invalid operator");
+                break;
+        }
 
 
 
