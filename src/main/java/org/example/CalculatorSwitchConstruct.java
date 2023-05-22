@@ -13,7 +13,9 @@ public class CalculatorSwitchConstruct {
         // create a variable to store first number , use the input.nextInt() method to input the number
         int firstNumber = input.nextInt();
 
-        //K
+        // prompt the user to enter second number
+        System.out.println(" Enter the second number :");
+
 
 
 
