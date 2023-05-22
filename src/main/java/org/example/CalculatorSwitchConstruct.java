@@ -19,6 +19,10 @@ public class CalculatorSwitchConstruct {
         // create a variable to store second number , use the input.nextInt() method to input the number
         int secondNumber = input.nextInt();
 
+        // prompt the user to enter operator
+        System.out.println(" Enter the operator :");
+
+
 
 
 
