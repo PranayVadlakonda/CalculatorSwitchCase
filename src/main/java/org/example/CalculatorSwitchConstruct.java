@@ -39,6 +39,9 @@ public class CalculatorSwitchConstruct {
                 break;
             // write a case for *
             case '*':
+                // write the code to print the product of two numbers
+                System.out.println(firstNumber * secondNumber);
+
 
         }
 
