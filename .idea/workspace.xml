@@ -82,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684757303695</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create a variable to store second number , use the input.nextInt() method to input the number">
+      <created>1684757551982</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684757551982</updated>
+    </task>
+    <task id="LOCAL-00006" summary="prompt the user to enter operator">
+      <created>1684757634243</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684757634243</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -90,6 +104,8 @@
     <MESSAGE value="prompt the user to enter first number" />
     <MESSAGE value="create a variable to store first number , use the input.nextInt() method to input the number" />
     <MESSAGE value=" prompt the user to enter second number" />
-    <option name="LAST_COMMIT_MESSAGE" value=" prompt the user to enter second number" />
+    <MESSAGE value="create a variable to store second number , use the input.nextInt() method to input the number" />
+    <MESSAGE value="prompt the user to enter operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="prompt the user to enter operator" />
   </component>
 </project>

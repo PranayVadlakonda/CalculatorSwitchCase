@@ -22,6 +22,26 @@ public class CalculatorSwitchConstruct {
         // prompt the user to enter operator
         System.out.println(" Enter the operator :");
 
+        // create a variable to store operator , use the input.next().charAt(0) method to input the character
+        char operator = input.next().charAT(0);
+
+        // write a switch case statement with the operator as expression
+        switch (operator) {
+            // write a case for +
+            case '+':
+                // write the code to print the sum of two numbers
+                System.out.println(firstNumber + secondNumber);
+                break;
+            // write a case for -
+            case '-':
+                // write the code to print the difference of two numbers
+                System.out.println(firstNumber - secondNumber);
+                break;
+            // write a case for *
+            case '*':
+
+        }
+
 
 
 
