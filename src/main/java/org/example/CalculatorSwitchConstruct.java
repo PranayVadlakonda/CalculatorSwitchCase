@@ -5,25 +5,25 @@ import java.util.Scanner;
 public class CalculatorSwitchConstruct {
     public static void main(String[] args) {
         // prompt the scanner
-        Scanner Scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         // prompt the user to enter first number
         System.out.println(" Enter the  first number :");
 
         // create a variable to store first number , use the input.nextInt() method to input the number
-        int firstNumber = input.nextInt();
+        int firstNumber = scanner.nextInt();
 
         // prompt the user to enter second number
         System.out.println(" Enter the second number :");
 
         // create a variable to store second number , use the input.nextInt() method to input the number
-        int secondNumber = input.nextInt();
+        int secondNumber = scanner.nextInt();
 
         // prompt the user to enter operator
         System.out.println(" Enter the operator :");
 
         // create a variable to store operator , use the input.next().charAt(0) method to input the character
-        char operator = input.next().charAT(0);
+        char operator = scanner.next().charAt(0);
 
         // write a switch case statement with the operator as expression
         switch (operator) {
@@ -59,7 +59,7 @@ public class CalculatorSwitchConstruct {
                 break;
         }
         // close the scanner
-        input.close();
+        scanner.close();
     }
 }
 
